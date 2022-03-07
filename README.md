@@ -8,3 +8,7 @@ El sitio web busca replicar una pasteleria en la cual el cliente puede escoger t
 los datos del cliente para finalizar el pedido de este. También se incluye una vista de lo que un pastelero podría ver para manejar el inventario de lo ofrecido en el sitio. 
 
 [Este es el link al sitio web](https://armvasquez.github.io/Proyecto_CakePlus/).
+
+## Screenshots:
+
+![Screenshot1](/Screenshots/Screenshot1.png)
