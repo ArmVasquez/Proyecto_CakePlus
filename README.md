@@ -1,5 +1,7 @@
 # Proyecto_CakePlus
 
+ ![CakePlus](/assets/logo.jpeg
+ 
 ## Descripción:
 Este repositorio incluye los archivos correspondientes a un sitio web maquetado con base en HTML sin agregar estilos con CSS o JavaScript. 
 El sitio web busca replicar una pasteleria en la cual el cliente puede escoger tanto el tipo de pastel como sus adornos, continuando con un formulario que recopilara 
