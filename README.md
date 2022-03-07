@@ -1,6 +1,6 @@
 # Proyecto_CakePlus
 
- ![CakePlus](/assets/logo.jpeg
+ ![CakePlus](/assets/logo.jpeg)
  
 ## Descripción:
 Este repositorio incluye los archivos correspondientes a un sitio web maquetado con base en HTML sin agregar estilos con CSS o JavaScript. 
