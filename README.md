@@ -11,4 +11,4 @@ los datos del cliente para finalizar el pedido de este. También se incluye una 
 
 ## Screenshots:
 
-![Screenshot1](/Screenshots/Screenshot1.png)
+![Screenshot1](/Screenshots/Screenshot_1.png)
